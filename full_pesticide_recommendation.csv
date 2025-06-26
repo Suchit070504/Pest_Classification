@@ -1,0 +1,103 @@
+Pest Class ID,Pest Name,Recommended Pesticide,Amount
+0,1  rice leaf roller,Chlorantraniliprole 18.5% SC,150 ml/acre
+1,2  rice leaf caterpillar,Lambda-cyhalothrin 5% EC,200 ml/acre
+2,3  paddy stem maggot,Cartap Hydrochloride 4% GR,10 kg/acre
+3,4  asiatic rice borer,Flubendiamide 39.35% SC,60 ml/acre
+4,5  yellow rice borer,Chlorpyrifos 20% EC,500 ml/acre
+5,6  rice gall midge,Imidacloprid 17.8% SL,100 ml/acre
+6,7  Rice Stemfly,Monocrotophos 36% SL,500 ml/acre
+7,8  brown plant hopper,Buprofezin 25% SC,400 ml/acre
+8,9  white backed plant hopper,Thiamethoxam 25% WG,100 gm/acre
+9,10 small brown plant hopper,Pymetrozine 50% WG,120 gm/acre
+10,11 rice water weevil,Fipronil 5% SC,200 ml/acre
+11,12 rice leafhopper,Acephate 75% SP,400 gm/acre
+12,13 grain spreader thrips,Spinosad 45% SC,150 ml/acre
+13,14 rice shell pest,Cartap Hydrochloride 4% GR,8 kg/acre
+14,15 grub,Chlorpyrifos 20% EC,1000 ml/acre
+15,16 mole cricket,Chlorantraniliprole 0.4% GR,4 kg/acre
+16,17 wireworm,Fipronil 0.3% GR,5 kg/acre
+17,18 white margined moth,Lambda-cyhalothrin 5% EC,150 ml/acre
+18,19 black cutworm,Chlorpyrifos 20% EC,600 ml/acre
+19,20 large cutworm,Acephate 75% SP,600 gm/acre
+20,21 yellow cutworm,Profenophos 50% EC,500 ml/acre
+21,22 red spider,Dicofol 18.5% EC,500 ml/acre
+22,23 corn borer,Emamectin Benzoate 5% SG,220 gm/acre
+23,24 army worm,Chlorpyrifos 20% EC,600 ml/acre
+24,25 aphids,Imidacloprid 17.8% SL,100 ml/acre
+25,26 Potosiabre vitarsis,Chlorantraniliprole 18.5% SC,150 ml/acre
+26,27 peach borer,Lambda-cyhalothrin 5% EC,200 ml/acre
+27,28 english grain aphid,Cartap Hydrochloride 4% GR,10 kg/acre
+28,29 green bug,Flubendiamide 39.35% SC,60 ml/acre
+29,30 bird cherry-oataphid,Chlorpyrifos 20% EC,500 ml/acre
+30,31 wheat blossom midge,Imidacloprid 17.8% SL,100 ml/acre
+31,32 penthaleus major,Monocrotophos 36% SL,500 ml/acre
+32,33 longlegged spider mite,Buprofezin 25% SC,400 ml/acre
+33,34 wheat phloeothrips,Thiamethoxam 25% WG,100 gm/acre
+34,35 wheat sawfly,Pymetrozine 50% WG,120 gm/acre
+35,36 cerodonta denticornis,Fipronil 5% SC,200 ml/acre
+36,37 beet fly,Acephate 75% SP,400 gm/acre
+37,38 flea beetle,Spinosad 45% SC,150 ml/acre
+38,39 cabbage army worm,Cartap Hydrochloride 4% GR,8 kg/acre
+39,40 beet army worm,Chlorpyrifos 20% EC,1000 ml/acre
+40,41 Beet spot flies,Chlorantraniliprole 0.4% GR,4 kg/acre
+41,42 meadow moth,Fipronil 0.3% GR,5 kg/acre
+42,43 beet weevil,Lambda-cyhalothrin 5% EC,150 ml/acre
+43,44 sericaorient alismots chulsky,Chlorpyrifos 20% EC,600 ml/acre
+44,45 alfalfa weevil,Acephate 75% SP,600 gm/acre
+45,46 flax budworm,Profenophos 50% EC,500 ml/acre
+46,47 alfalfa plant bug,Dicofol 18.5% EC,500 ml/acre
+47,48 tarnished plant bug,Emamectin Benzoate 5% SG,220 gm/acre
+48,49 Locustoidea,Chlorpyrifos 20% EC,600 ml/acre
+49,50 lytta polita,Imidacloprid 17.8% SL,100 ml/acre
+50,51 legume blister beetle,Chlorantraniliprole 18.5% SC,150 ml/acre
+51,52 blister beetle,Lambda-cyhalothrin 5% EC,200 ml/acre
+52,53 therioaphis maculata Buckton,Cartap Hydrochloride 4% GR,10 kg/acre
+53,54 odontothrips loti,Flubendiamide 39.35% SC,60 ml/acre
+54,55 Thrips,Chlorpyrifos 20% EC,500 ml/acre
+55,56 alfalfa seed chalcid,Imidacloprid 17.8% SL,100 ml/acre
+56,57 Pieris canidia,Monocrotophos 36% SL,500 ml/acre
+57,58 Apolygus lucorum,Buprofezin 25% SC,400 ml/acre
+58,59 Limacodidae,Thiamethoxam 25% WG,100 gm/acre
+59,60 Viteus vitifoliae,Pymetrozine 50% WG,120 gm/acre
+60,61 Colomerus vitis,Fipronil 5% SC,200 ml/acre
+61,62 Brevipoalpus lewisi McGregor,Acephate 75% SP,400 gm/acre
+62,63 oides decempunctata,Spinosad 45% SC,150 ml/acre
+63,64 Polyphagotars onemus latus,Cartap Hydrochloride 4% GR,8 kg/acre
+64,65 Pseudococcus comstocki Kuwana,Chlorpyrifos 20% EC,1000 ml/acre
+65,66 parathrene regalis,Chlorantraniliprole 0.4% GR,4 kg/acre
+66,67 Ampelophaga,Fipronil 0.3% GR,5 kg/acre
+67,68 Lycorma delicatula,Lambda-cyhalothrin 5% EC,150 ml/acre
+68,69  Xylotrechus,Chlorpyrifos 20% EC,600 ml/acre
+69,70  Cicadella viridis,Acephate 75% SP,600 gm/acre
+70,71  Miridae,Profenophos 50% EC,500 ml/acre
+71,72  Trialeurodes vaporariorum,Dicofol 18.5% EC,500 ml/acre
+72,73  Erythroneura apicalis,Emamectin Benzoate 5% SG,220 gm/acre
+73,74  Papilio xuthus,Chlorpyrifos 20% EC,600 ml/acre
+74,75  Panonchus citri McGregor,Imidacloprid 17.8% SL,100 ml/acre
+75,76  Phyllocoptes oleiverus ashmead,Chlorantraniliprole 18.5% SC,150 ml/acre
+76,77  Icerya purchasi Maskell,Lambda-cyhalothrin 5% EC,200 ml/acre
+77,78  Unaspis yanonensis,Cartap Hydrochloride 4% GR,10 kg/acre
+78,79  Ceroplastes rubens,Flubendiamide 39.35% SC,60 ml/acre
+79,80  Chrysomphalus aonidum,Chlorpyrifos 20% EC,500 ml/acre
+80,81  Parlatoria zizyphus Lucus,Imidacloprid 17.8% SL,100 ml/acre
+81,82  Nipaecoccus vastalor,Monocrotophos 36% SL,500 ml/acre
+82,83  Aleurocanthus spiniferus,Buprofezin 25% SC,400 ml/acre
+83,84  Tetradacus c Bactrocera minax,Thiamethoxam 25% WG,100 gm/acre
+84,85  Dacus dorsalis(Hendel),Pymetrozine 50% WG,120 gm/acre
+85,86  Bactrocera tsuneonis,Fipronil 5% SC,200 ml/acre
+86,87  Prodenia litura,Acephate 75% SP,400 gm/acre
+87,88  Adristyrannus,Spinosad 45% SC,150 ml/acre
+88,89  Phyllocnistis citrella Stainton,Cartap Hydrochloride 4% GR,8 kg/acre
+89,90  Toxoptera citricidus,Chlorpyrifos 20% EC,1000 ml/acre
+90,91  Toxoptera aurantii,Chlorantraniliprole 0.4% GR,4 kg/acre
+91,92  Aphis citricola Vander Goot,Fipronil 0.3% GR,5 kg/acre
+92,93  Scirtothrips dorsalis Hood,Lambda-cyhalothrin 5% EC,150 ml/acre
+93,94  Dasineura sp,Chlorpyrifos 20% EC,600 ml/acre
+94,95  Lawana imitata Melichar,Acephate 75% SP,600 gm/acre
+95,96  Salurnis marginella Guerr,Profenophos 50% EC,500 ml/acre
+96,97  Deporaus marginatus Pascoe,Dicofol 18.5% EC,500 ml/acre
+97,98  Chlumetia transversa,Emamectin Benzoate 5% SG,220 gm/acre
+98,99  Mango flat beak leafhopper,Chlorpyrifos 20% EC,600 ml/acre
+99,100 Rhytidodera bowrinii white,Imidacloprid 17.8% SL,100 ml/acre
+100,101 Sternochetus frigidus,Chlorantraniliprole 18.5% SC,150 ml/acre
+101,102 Cicadellidae,Lambda-cyhalothrin 5% EC,200 ml/acre
